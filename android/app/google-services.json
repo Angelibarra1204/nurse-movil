@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912406880809",
+    "project_id": "nursemovil-701a9",
+    "storage_bucket": "nursemovil-701a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912406880809:android:6fbb044140c025d9bbb238",
+        "android_client_info": {
+          "package_name": "com.example.nursemovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLKRwTtn85qkHLKjyYM0_HPNd6Cnrr6NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
